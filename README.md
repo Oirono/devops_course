@@ -1,6 +1,3 @@
-# akozhin_infra
-akozhin Infra repository
-
 # Homework 5 GCP & VPN
 
 ## Самостоятельное задание 1
